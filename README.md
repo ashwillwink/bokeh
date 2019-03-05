@@ -15,8 +15,8 @@ x = [1, 2, 3, 4, 5]
 y = [6, 7, 8, 9, 10]
 
 #Prepare the output file
-output_file("Line.html")
 
+output_file("Line.html")
 f = figure()
 
 #Create a line plot
